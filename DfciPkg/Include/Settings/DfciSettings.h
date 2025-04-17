@@ -139,6 +139,11 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
 #define DFCI_STD_SETTING_ID_V4_ENABLE_MICROPHONE  "Dfci4.Microphone.Enable"
 
 //
+// Enable or Disable the Audio Jack microphone.
+//
+#define DFCI_STD_SETTING_ID_V4_ENABLE_AUDIO_JACK_MICROPHONE  "Dfci4.AudioJackMicrophone.Enable"
+
+//
 // Enable or Disable booting from the SD Card.
 //
 #define DFCI_STD_SETTING_ID_V4_ENABLE_SDCARD  "Dfci4.Sdcard.Enable"

@@ -188,6 +188,11 @@
       <Type>ENABLE/DISABLE TYPE</Type>
     </SettingCurrent>
     <SettingCurrent>
+      <Id>Dfci4.AudioJackMicrophone.Enable</Id>
+      <Value>Enabled</Value>
+      <Type>ENABLE/DISABLE TYPE</Type>
+    </SettingCurrent>
+    <SettingCurrent>
       <Id>Dfci.OnboardRadios.Enable</Id>
       <Value>Inconsistent</Value>
       <Type>ENABLE/DISABLE TYPE</Type>
